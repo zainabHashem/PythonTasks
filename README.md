@@ -1,9 +1,10 @@
 DIGITAL EGYPT PIONEERS INITIATIVE DATA - ANALYTICS TRACK
 
- This repository contains a collection of Python tasks and solutions aimed at developing data analytics skills. 
-
+      This repository contains a collection of Python tasks and solutions aimed at developing data analytics skills.
+  
 Prerequisites:
-Ensure you have Python 3.x installed on your system
+
+      Ensure you have Python 3.x installed on your system
 
 Tasks
 Task 7: Collects user information with validation and Basic Arithmetic Operations on two numbers provided by the user.
@@ -11,7 +12,7 @@ Task 7: Collects user information with validation and Basic Arithmetic Operation
     Description:
     -Collect user details (name, email, age) with appropriate validation.
     -Perform basic arithmetic operations (sum, difference, product, division, remainder, power) on two user-provided numbers.
-    -Print the user details and the results of the arithmetic operations.
+    -Print the user details and the results of the arithmetic operations. 
 Task 8: Two programs -> Program 1: Calculate Average,Program 2: Categorize Numbers.
 
     Description:
