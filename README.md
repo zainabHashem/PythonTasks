@@ -48,3 +48,37 @@ Description
     - Has a total length of 7 characters
     - Ends with 4 digits
 
+...............................................................
+
+Task 10: Functions & Lists
+Description 
+        
+    1. `fizz_buzz(n=15)`: 
+    Implements the FizzBuzz game for numbers from 1 to n.
+
+    2. `is_prime(x)`: 
+    Checks if a given number is prime.
+
+    3. `primes_n(p=100)`: 
+    Prints all prime numbers less than p.
+
+    4. `union(l1, l2)`: 
+    Returns the union of two lists without duplicates.
+
+    5. `flatten(l_s)`: 
+    Flattens a list of lists into a single list.
+
+    6. `prefix(l1, l2)`: 
+    Checks if l1 is a prefix of l2.
+    
+## Usage
+
+Run the script and follow the prompts to interact with each function:
+
+1. FizzBuzz: Enter a positive number (default is 15).
+2. Prime Check: Enter a number to check if it's prime.
+3. Prime Numbers: Enter a number to find all primes less than it (default is 100).
+4. Union: Enter two lists of numbers (space-separated).
+5. Flatten: Enter a list of lists (use spaces to separate elements and commas to separate sublists).
+6. Prefix: Enter two lists to check if the first is a prefix of the second.
+
