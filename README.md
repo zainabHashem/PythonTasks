@@ -7,6 +7,7 @@ Ensure you have Python 3.x installed on your system.
 Tasks
 
 ...............................................................
+
 Task 7: User Information and Basic Arithmetic Operations
 Description
 
@@ -15,6 +16,7 @@ Description
     Print the user details and the results of the arithmetic operations.
     
 ...............................................................
+
 Task 8: Two Programs
 -Program 1: Calculate Average
 Description
@@ -27,6 +29,7 @@ Description
     Categorize Numbers: Prompts the user to enter numbers (stopping when the user enters 0) and categorizes them into positive odd, positive even, negative odd, and negative even numbers.
 
 ...............................................................
+
 Task 9: Two programs
 -program 1: Multiplication Table Generator
 Description
@@ -44,3 +47,4 @@ Description
     - Starts with "AB"
     - Has a total length of 7 characters
     - Ends with 4 digits
+
