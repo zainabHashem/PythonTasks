@@ -1,10 +1,3 @@
-# Title: Assignment 3
-# Created by: Anas Ismail
-# Date: May, 13th 2024
-
-# Please don't change any part of the provided code. Only add new code.
-# Please change the file name to be yourId_FirstName_LastName.py
-
 # write your full name
 NAME = "Zainab Hashem"
 # write your id as a string
