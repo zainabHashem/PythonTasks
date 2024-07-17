@@ -82,3 +82,31 @@ Description
         5. Flatten: Enter a list of lists (use spaces to separate elements and commas to separate sublists).
         6. Prefix: Enter two lists to check if the first is a prefix of the second.
 
+...............................................................
+
+Task 11: Phonebook Application
+Description 
+
+## Features
+- Add new contacts
+- Update existing contacts
+- Delete contacts
+- Find contacts by name
+- View all contacts
+- Save phonebook to a file
+- Load phonebook from a file
+
+## Usage
+Once the application is running, you will see a menu with the following options:
+
+- Press 'e' to exit
+- Press 'a' to add a contact
+- Press 'd' to delete a contact
+- Press 's' to save data to file
+- Press 'l' to load data from file
+- Press 'v' to view all your contacts
+- Press 'f' to find the phone number of a given name
+- Press 'u' to update the phone number of a given name
+- Press 'h' to show help message
+
+Follow the on-screen prompts to interact with the phonebook.
