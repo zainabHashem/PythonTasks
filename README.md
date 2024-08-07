@@ -128,3 +128,30 @@ Task 12: NBA Player Analysis
        - What is the average salary for all players?
        - What is the average salary for each team?
        - What is the height difference between the tallest and shortest players?
+
+...............................................................
+
+Task 13: Supermarket Sales Analysis
+
+    ## Analysis Performed
+    1. Branch with the highest income
+    2. Product line with the highest income for each gender
+    3. Number of sales in each city
+    4. Payment method with the highest income
+    5. Average customer stratification rating per branch
+    6. Number of sales in each month
+    7. Percentage of income made on weekends
+    8. Hour of the day with the highest number of sales
+    9. Average total by customer type
+    10. Number of sales by day of the week
+    11. Sum of tax by payment method
+
+    
+    ## Visualizations
+    For each analysis, the script generates a corresponding visualization:
+    
+    - (Bar/ Stacked bar/Pie/Line) Charts
+
+...............................................................
+
+
