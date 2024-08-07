@@ -114,3 +114,17 @@ Task 11: Phonebook Application
         Follow the on-screen prompts to interact with the phonebook.
 
 ...............................................................
+
+Task 12: NBA Player Analysis
+
+    ## Functionality
+    1. Loads and cleans the data:
+       - Fills null values in the 'College' column with 'Unknown'
+       - Fills null values in the 'Salary' column with the median salary
+       - Converts player heights from feet-inches to centimeters
+    
+    2. Answers the following questions:
+       - Who is the highest-paid player?
+       - What is the average salary for all players?
+       - What is the average salary for each team?
+       - What is the height difference between the tallest and shortest players?
